@@ -31,3 +31,5 @@ My personal website that I'm making for phantom.
 - Then I also styled them. 
 
 - Now I'm wiritng the process. 
+
+- And I also added a funny little thing about the world revolving around me as a joke. guys im not the sun. 
