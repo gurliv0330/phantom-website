@@ -17,3 +17,17 @@ My personal website that I'm making for phantom.
 - then it has my favorite thing of all time. Meowl. How is your knee twin?
 
 - Anyway that is basicaly it about the project. 
+
+- It runs on web just like any HTML project. Because I made it with HTML and tailwind. 
+
+- First I added the little information about me. which is cool. 
+
+- Then I added the first cat. 
+
+- Then I did some styling. 
+
+- Then I added the other two pictures. 
+
+- Then I also styled them. 
+
+- Now I'm wiritng the process. 
